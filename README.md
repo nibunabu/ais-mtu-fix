@@ -1,6 +1,6 @@
 # AIS Fibre MTU Fix for UniFi Dream Machine Pro
 
-Sick of random disconnects, slow international speeds, and VPN issues on AIS Fibre? You're not alone. This script fixes the MTU/MSS misconfiguration that AIS's PPPoE implementation causes on UniFi Dream Machine Pro (and probably other UniFi gateways).
+This script fixes the MTU/MSS misconfiguration that AIS's PPPoE implementation causes on UniFi Dream Machine Pro (and probably other UniFi gateways).
 
 ## The Problem
 
